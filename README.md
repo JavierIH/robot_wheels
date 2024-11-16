@@ -9,6 +9,6 @@ Dimensions of common tire options for robots
 | ![AF03-2080](img/af03-2080.png)   | Konica    | AF03-2080     | Silicone | 28             | 17             | 24    |
 | ![SC-4802](img/sc-4802.png)       | Scaleauto | SC-4802       | Foam     | 30             | 20             | 20    |
 | ![MZw2-20](img/mzw2-20.png)       | Kyosho    | MZW2-20       | Rubber   | 24.7           | 20             | 8.5   |
-|                                   | Kyosho    | MZW19-30      | Rubber   | 23.9           | 20             | 8.5   |
-|                                   | Kyosho    | MZ-001-N10SLA | Rubber   | 24.7           | 20             | 8.5   |
+| ![MZ19-30](img/mzw19-30.png)      | Kyosho    | MZW19-30      | Rubber   | 23.9           | 20             | 8.5   |
+|                                   | PN Racing    | MZ-001-N10SLA | Rubber   | 24.7           | 20             | 8.5   |
 |                                   | Wltoys    | WLT K969      | Rubber   | 26.5           | 22.5           | 9/11  |
